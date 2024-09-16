@@ -296,7 +296,7 @@
         font-size: 25px;
         font-family: "Nunito", sans-serif;
         font-optical-sizing: auto;
-        font-weight: 400;
+        font-weight: 500;
         font-style: normal;
     }
 
@@ -304,7 +304,7 @@
         margin: 0px;
         font-family: "Nunito", sans-serif;
         font-optical-sizing: auto;
-        font-weight: 400;
+        font-weight: 500;
         font-style: normal;
         font-size: 10px;
     }
