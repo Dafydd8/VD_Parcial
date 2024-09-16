@@ -1,13 +1,8 @@
-# VD | Maqueta inicial web (HTML, CSS, Svelte)
+# VD | Maqueta de Microstuff VS. Pear (HTML, CSS, Svelte)
 
 <!-- image .md -->
-![VD](thumbnail.png)
 
 ---
-
-## Estructura de archivos:
-![VD](estructura_archivos.png)
-
 
 ## Requerimientos:
 
