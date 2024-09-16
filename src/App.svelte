@@ -143,6 +143,7 @@
 
 <!-- Estilos CSS -->
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
     .header {
         display: flex;
@@ -279,7 +280,7 @@
 
     h1 {
         margin-top: 30px;
-        font-family:'Outfit';
+        font-family: "Outfit", system-ui;
         font-weight:600;
         text-align:center;
         margin-bottom: 20px;
