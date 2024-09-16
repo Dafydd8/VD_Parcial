@@ -279,6 +279,8 @@
     }
 
     h1 {
+        font-optical-sizing: auto;
+        font-style: normal;
         margin-top: 30px;
         font-family: "Outfit", system-ui;
         font-weight:600;
