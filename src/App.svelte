@@ -116,13 +116,13 @@
 </div>
 
 <div class="flourish_container">
-    <div class="flourish-embed flourish-chart" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px; height:500px" data-src="visualisation/19450884"><script src="https://public.flourish.studio/resources/embed.js"></script>
+    <div class="flourish-embed flourish-chart" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19450884"><script src="https://public.flourish.studio/resources/embed.js"></script>
         <h1 style = "font-size: 25px; color: #6D6D6D">Market share</h1>
         <noscript>
             <img src="https://public.flourish.studio/visualisation/19450884/thumbnail" width="100%" alt="chart visualization" />
         </noscript>
     </div>
-    <div class="flourish-embed flourish-bar-chart-race" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px; height:500px" data-src="visualisation/19450880"><script src="https://public.flourish.studio/resources/embed.js"></script>
+    <div class="flourish-embed flourish-bar-chart-race" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19450880"><script src="https://public.flourish.studio/resources/embed.js"></script>
         <h1 style = "font-size: 25px; color: #6D6D6D">La carrera por el mercado ($MM)</h1>
         <noscript>
             <img src="https://public.flourish.studio/visualisation/19450880/thumbnail" width="100%" alt="bar-chart-race visualization" />
@@ -176,7 +176,6 @@
     .flourish_container {
         display: flex;
         justify-content: center;
-        height: 100%;
         margin-top: 50px;
         margin-top: 3%;
         background-color: #ffffff;
