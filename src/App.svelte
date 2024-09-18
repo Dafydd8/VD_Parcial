@@ -130,6 +130,7 @@
     </div>
 </div>
 <div class="footer">
+    <img src="./images/ditella.png" alt="">
     <h2 style = "text-align:center; margin-top: 20px; margin-bottom: 20px; color: white; font-size:20px">Desarrollado por Dafydd Jenkins</h2>
     <div class="socials">
         <a href="https://github.com/Dafydd8">
@@ -161,7 +162,7 @@
     .footer {
         background-color: #5a84e0;
         display: flex;
-        justify-content: center;
+        justify-content: space-around;
         align-items: center;
         gap: 30px;
     }
