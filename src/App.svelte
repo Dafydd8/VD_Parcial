@@ -116,11 +116,11 @@
 </div>
 
 <div class="flourish_container">
-    <div class="flourish-embed flourish-chart" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19282371">
+    <div class="flourish-embed flourish-chart" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px; height:auto" data-src="visualisation/19282371">
         <h1 style = "font-size: 25px; color: #6D6D6D">Market share</h1>
         <iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 400px;" src="https://flo.uri.sh/visualisation/19286904/embed?auto=1"></iframe>
     </div>
-    <div class="flourish-embed flourish-bar-chart-race" style="width: 42.5%; margin-left: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19362303">
+    <div class="flourish-embed flourish-bar-chart-race" style="width: 42.5%; margin-left: 20px; margin-top: 15px; margin-bottom: 30px; height:auto" data-src="visualisation/19362303">
         <h1 style = "font-size: 25px; color: #6D6D6D">La carrera por el mercado ($MM)</h1>
         <iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 400px;" src="https://flo.uri.sh/visualisation/19362303/embed?auto=1"></iframe>
     </div>
