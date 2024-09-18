@@ -61,7 +61,7 @@
 <!-- Estructura contenido HTML -->
 <div class="header">
     <h1>Microstuff vs Pear</h1>
-    <h2 style = "text-align:center; margin-bottom: 20px; color: white; width: 600px">Comparativa de ventas de licencias de software en millones de U$D en   la última década</h2>
+    <h2 style = "text-align:center; margin-bottom: 20px; color: white; width: 600px">Ventas de licencias de software en millones de U$D en   la última década</h2>
 </div>
 
 <div class = "logos">
@@ -71,8 +71,9 @@
     <div class = "logo">
         <img id="pear" src="./images/pearlogomonochrom.png" alt="">
     </div>
-    
 </div>
+
+<h1 style = "font-size: 25px; color: #6D6D6D">Ventas en $MM</h1>
 
 <div class = "container" style="width: 1250px">
     <div class="container_chart_1" style="width: 600px">
@@ -116,11 +117,11 @@
 
 <div class="flourish_container">
     <div class="flourish-embed flourish-chart" style="width: 42.5%; margin-right: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19282371">
-        <h1 style = "font-size: 25px; color: #6D6D6D">Tendencias en el tiempo</h1>
-        <iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 400px;" src="https://flo.uri.sh/visualisation/19282371/embed?auto=1"></iframe>
+        <h1 style = "font-size: 25px; color: #6D6D6D">Market share</h1>
+        <iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 400px;" src="https://flo.uri.sh/visualisation/19286904/embed?auto=1"></iframe>
     </div>
     <div class="flourish-embed flourish-bar-chart-race" style="width: 42.5%; margin-left: 20px; margin-top: 15px; margin-bottom: 30px" data-src="visualisation/19362303">
-        <h1 style = "font-size: 25px; color: #6D6D6D">La carrera por el mercado</h1>
+        <h1 style = "font-size: 25px; color: #6D6D6D">La carrera por el mercado ($MM)</h1>
         <iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 400px;" src="https://flo.uri.sh/visualisation/19362303/embed?auto=1"></iframe>
     </div>
 </div>
@@ -151,8 +152,6 @@
         flex-direction: column;
         align-items: center;
         background-color: #5a84e0;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
     }
 
     .footer {
