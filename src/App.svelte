@@ -172,7 +172,7 @@
     .flourish_container {
         display: flex;
         justify-content: center;
-        height: auto;
+        height: 100%;
         margin-top: 50px;
         margin-top: 3%;
         background-color: #ffffff;
