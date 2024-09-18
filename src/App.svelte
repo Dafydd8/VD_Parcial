@@ -130,9 +130,8 @@
     </div>
 </div>
 <div class="footer">
-    <img src="./images/ditella.png" alt="">
-    <h2 style = "text-align:center; margin-top: 20px; margin-bottom: 20px; color: white; font-size:20px">Desarrollado por Dafydd Jenkins</h2>
     <div class="socials">
+        <h2 style = "text-align:center; margin-top: 20px; margin-bottom: 20px; color: white; font-size:20px">Desarrollado por Dafydd Jenkins</h2>
         <a href="https://github.com/Dafydd8">
             <img src="./images/GitHub.png" alt="">
         </a>
@@ -143,6 +142,7 @@
             <img src="./images/Telegram.png" alt="">
         </a>
     </div>
+    <img src="./images/ditella.png" alt="" style = "margin-right: 5%">
     
 </div>
 
@@ -162,14 +162,16 @@
     .footer {
         background-color: #5a84e0;
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: center;
         gap: 30px;
     }
 
     .socials {
+        margin-left: 5%;
         display: flex;
         justify-content: center;
+        align-items: center;
         gap: 5px;
     }
 
